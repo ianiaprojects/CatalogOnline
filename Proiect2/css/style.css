@@ -1,0 +1,28 @@
+.navbar{
+  border-radius:0px;
+}
+
+.footer-content{
+    min-height:53px;
+    background:#080808;
+    margin-top:40%;
+    width:100%;
+}
+
+.footer-content .content{
+  margin-top:20px;
+  color:gray;
+}
+
+.main-content{
+
+}
+
+.create th, td {
+
+    padding: 5px;
+}
+
+body{
+	overflow-x:hidden;
+}
